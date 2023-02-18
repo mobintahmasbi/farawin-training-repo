@@ -1,0 +1,1 @@
+this package is only a test fo learning how to publish package in npm .
